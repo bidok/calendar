@@ -1,0 +1,29 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.calendar button{
+    width: 35px;
+    background-color: white;
+    border: unset;
+    height: 35px;
+}
+.calendar button:hover{
+    color: white;
+    background-color: grey;
+}
+.interval button{
+    width: 60px;
+    background-color: white;
+    border-color: grey;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+.interval button:hover{
+    color: white;
+    background-color: grey;
+    border-color: white;
+}
