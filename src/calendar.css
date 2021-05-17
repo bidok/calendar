@@ -27,3 +27,11 @@ body{
     background-color: grey;
     border-color: white;
 }
+
+.fill{
+    width: 35px;
+   color: fuchsia;
+    font-size: larger;
+    border: unset;
+    height: 35px;
+}
